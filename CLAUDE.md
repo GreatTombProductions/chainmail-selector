@@ -119,4 +119,11 @@ Ring sizes and AR values based on Chainmail Joe's ring sizer guide (standard ref
 
 ---
 
+## Library References
+
+<!-- LIBRARY: greattomb library show reference-based-specification -->
+- **reference-based-specification**: This project is a clean reference artifact for future community tools — self-contained React/Vite/Tailwind app with GitHub Pages auto-deploy and domain-specific data. Spec new tools by pointing at this one ("make something like chainmail-selector but for X").
+
+---
+
 *Community tool for chainmail makers. Part of Czarkain creative ecosystem (Great Tomb Productions).*
