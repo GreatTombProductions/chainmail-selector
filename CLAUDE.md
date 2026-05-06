@@ -25,7 +25,7 @@ Interactive tool for selecting appropriate ring sizes (wire gauge + inner diamet
 ## How to Run Locally
 
 ```bash
-cd /Users/rayheberer/Documents/greattomb/community-tools/chainmail-selector
+cd /home/ray/greattomb/community-tools/chainmail-selector
 npm install
 npm run dev
 ```
