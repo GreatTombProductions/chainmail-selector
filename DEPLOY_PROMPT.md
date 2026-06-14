@@ -1,3 +1,5 @@
+**Status: IMPLEMENTED — Retained as deployment record.**
+
 # Chainmail Selector — GitHub Pages Deployment
 
 ## Context
