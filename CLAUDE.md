@@ -1,4 +1,4 @@
-# CLAUDE.md — community-tools/chainmail-selector/
+# CLAUDE.md — 0th-floor-exterior/east-mausoleum/chainmail-selector/
 
 Ring size calculator for chainmail weaving projects.
 
@@ -25,7 +25,7 @@ Interactive tool for selecting appropriate ring sizes (wire gauge + inner diamet
 ## How to Run Locally
 
 ```bash
-cd /home/ray/greattomb/community-tools/chainmail-selector
+cd /home/ray/greattomb/0th-floor-exterior/east-mausoleum/chainmail-selector
 npm install
 npm run dev
 ```
