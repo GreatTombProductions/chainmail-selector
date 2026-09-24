@@ -4,7 +4,7 @@
 
 ## Context
 
-There's a React component at `community-tools/chainmail-selector/ChainmailSelector.jsx` that needs to be deployed to GitHub Pages under the greattombproductions organization (like the existing splits calculator at https://greattombproductions.github.io/splits/).
+There's a React component at `0th-floor-exterior/east-mausoleum/chainmail-selector/ChainmailSelector.jsx` that needs to be deployed to GitHub Pages under the greattombproductions organization (like the existing splits calculator at https://greattombproductions.github.io/splits/).
 
 ## What Already Exists
 
@@ -16,7 +16,7 @@ There's a React component at `community-tools/chainmail-selector/ChainmailSelect
 ### 1. Set up Vite project in the chainmail-selector directory
 
 ```bash
-cd community-tools/chainmail-selector
+cd 0th-floor-exterior/east-mausoleum/chainmail-selector
 npm create vite@latest . -- --template react
 ```
 
